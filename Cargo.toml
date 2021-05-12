@@ -13,7 +13,7 @@ repository = "https://github.com/Pencil-Yao/efficient-sm2"
 
 [dependencies]
 rand = "0.8"
-libsm = { git = "https://github.com/citahub/libsm.git", branch = "master" }
+libsm = { git = "https://github.com/citahub/libsm.git", rev = "4d0e6199fca0934c58131de1d0036e9aa4da26c1" }
 
 [dev-dependencies]
 hex = "0.3"
